@@ -4,9 +4,9 @@
 
 Hello! My name is Justyna from Poland, currently 7 years in Berlin (I prefer the short version, Justi). I do content on film and tech from FLINTA* perspective. I am a data-driven project manager, therefore I can easily communicate with stakeholders. In addition, these skills are sharpened through improv comedy. I specialize in music and truthful comedy, which means a deep understanding of the present moment.
 
-## Skills 
-**Skills: Python / SQL / Machine Learning Algorithms/ Agile & SCRUM / Business Intelligence**
+## Skills and Current Projects
 
+- **Python / SQL / Machine Learning Algorithms/ Agile & SCRUM / Business Intelligence**
 - 🔭 I’m currently working on a film recommender that utilizes Natural Language Processing to minimise the hurdles of selecting a right movie to watch. 
 - 🌱 I’m currently learning TensorFlow: Machine & Deep Learning Solutions 
 - 👯 I’m looking to collaborate on Algoraving  
