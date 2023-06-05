@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Justi (Justyna Kurach).
-#### Data Scientist, Project Manager, Improv Comedian
-![Data Scientist, Project Manager, Improv Comedian](https://media.licdn.com/dms/image/D4E16AQGoepLfOqe0lg/profile-displaybackgroundimage-shrink_350_1400/0/1684746055282?e=1691625600&v=beta&t=Ldm4niTi8lz6ztR2iWhngY1NIX999nCDn5wnxTLSn9E)
+#### Implementing Feelings in Machine Learning
+![Implementing Feelings in Machine Learning](https://media.licdn.com/dms/image/D4E16AQGoepLfOqe0lg/profile-displaybackgroundimage-shrink_350_1400/0/1684746055282?e=1691625600&v=beta&t=Ldm4niTi8lz6ztR2iWhngY1NIX999nCDn5wnxTLSn9E)
 
 Hello! My name is Justyna from Poland, currently 7 years in Berlin (I prefer the short version, Justi). I do content on film and tech from FLINTA* perspective. I am a data-driven project manager, therefore I can easily communicate with stakeholders. In addition, these skills are sharpened through regular participation in the Berlin improv comedy community through Comedy Cafe Berlin. I specialize in music and truthful comedy, which means a deep understanding of the present moment.
 
