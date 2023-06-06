@@ -28,6 +28,8 @@ Hello! My name is Justyna from Poland, currently 7 years in Berlin (I prefer the
 
 
 <a name="german-version"></a>
+
+## 🇩🇪 Auf Deutsch: 
 ## **Gefühle in maschinelles Lernen integrieren**
 
 Hallo! Mein Name ist Justyna und ich komme aus Polen. Ich lebe seit 7 Jahren in Berlin (Ich bevorzuge die Kurzform, Justi). Ich erstelle Inhalte zu Film und Technologie aus der FLINTA*-Perspektive. Als datengesteuerte Projektmanagerin kann ich problemlos mit Interessengruppen kommunizieren. Zudem habe ich meine Fähigkeiten durch Improvisationskomödie weiterentwickelt. Ich spezialisiere mich auf Musik und ehrliche Komödie, was ein tiefes Verständnis für den gegenwärtigen Moment bedeutet. Ich erstelle Musik in Super Collider und genieße Algoraves.
@@ -49,6 +51,7 @@ Hallo! Mein Name ist Justyna und ich komme aus Polen. Ich lebe seit 7 Jahren in 
 ## Beispiele meiner Arbeit
 
 <a name="polish-version"></a>
+## 🇵🇱 ** Po polsku:
 ## **Wprowadzam uczucia do uczenia maszynowego**
 
 Cześć! Nazywam się Justyna i pochodzę z Polski. Od 7 lat mieszkam w Berlinie (moja preferowana wersja imienia to Justi). Tworzę content w tematyce filmu i branży IT z perspektywy kobiet i osób LGBT. Potrafię zarządzać projektami z perspektywy danych i dzięki temu komunikuję się z interesariuszami na zaawansowanym poziomie. Ponadto ćwiczę komunkacje w szkole komedii improwizowanej. Moja specjalizacja to muzyka, komedia prawdy. Dzięki temu potrafię wczuć się w każdą sytuacje i komunikować informacje. Dodatkowo tworzę muzykę w Super Collider i uczestniczę w Algoraves. 
