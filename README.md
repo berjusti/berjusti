@@ -65,8 +65,8 @@ Cześć! Nazywam się Justyna i pochodzę z Polski. Od 7 lat mieszkam w Berlinie
 - 📊 Business Intelligence
 
 ## Aktualne projekty
-🔭 Obecnie pracuję nad systemem rekomendacji filmów, który wykorzystuje przetwarzanie języka naturalnego w celu zminimalizowania trudności z wyborem odpowiedniego filmu do obejrzenia.
-🌱 Aktualnie uczę się TensorFlow: rozwiązań w zakresie uczenia maszynowego i głębokiego uczenia.
-👯 Szukam możliwości współpracy przy organizacji Algorave'ów.
+- 🔭 Obecnie pracuję nad systemem rekomendacji filmów, który wykorzystuje przetwarzanie języka naturalnego w celu zminimalizowania trudności z wyborem odpowiedniego filmu do obejrzenia.
+- 🌱 Aktualnie uczę się TensorFlow: rozwiązań w zakresie uczenia maszynowego i głębokiego uczenia.
+- 👯 Szukam możliwości współpracy przy organizacji Algorave'ów.
 
 ## Przykładowe projekty
