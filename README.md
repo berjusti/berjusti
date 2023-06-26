@@ -18,8 +18,9 @@ Hello! My name is Justyna from Poland, currently 7 years in Berlin (I prefer the
 ## Current Projects
 
 - 🔭 I’m currently working on a film recommender that utilizes Natural Language Processing to minimize the hurdles of selecting the right movie to watch.
-- Cultural networking project: utilise Data and Social Media Marketing to reach institutions and art projects in Berlin to improve learning in the community
-- 🌱 I’m currently learning TensorFlow: Machine & Deep Learning Solutions and SAP, Cloud Technology
+- Cultural networking project: utilize Data and Social Media Marketing to reach institutions and art projects in Berlin to improve learning in the community
+- 🌱 I’m currently learning TensorFlow: Machine & Deep Learning Solutions
+-  SAP Professional using Cloud Technology
 - 👯 I’m looking to collaborate on Algoraving  
 
 ## Examples of Work
