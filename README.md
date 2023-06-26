@@ -17,12 +17,16 @@ Hello! My name is Justyna from Poland, currently 7 years in Berlin (I prefer the
 
 ## Current Projects
 
-- 🔭 I’m currently working on a film recommender that utilizes Natural Language Processing to minimise the hurdles of selecting a right movie to watch. 
-- 🌱 I’m currently learning TensorFlow: Machine & Deep Learning Solutions 
+- 🔭 I’m currently working on a film recommender that utilizes Natural Language Processing to minimize the hurdles of selecting the right movie to watch.
+- Cultural networking project: utilise Data and Social Media Marketing to reach institutions and art projects in Berlin to improve learning in the community
+- 🌱 I’m currently learning TensorFlow: Machine & Deep Learning Solutions and SAP, Cloud Technology
 - 👯 I’m looking to collaborate on Algoraving  
 
 ## Examples of Work
 
+- Bechdel Test Movie Analysis |Python | Tableau | WebScraping
+- Spotify Song Recommender |API | Python | Social Media Marketing
+- E-Commerce Shop Project: Customer Reviews Analysis. | AI | NLP | Sentiment Analysis | Communication Skills in Tech
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/justyna-kurach-berlin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/directress.berlin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.filmthewomen.com/)  
 
