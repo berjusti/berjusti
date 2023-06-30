@@ -27,7 +27,7 @@ Hello! My name is Justyna from Poland, currently 7 years in Berlin (I prefer the
 
 - Bechdel Test Movie Analysis |Python | Tableau | WebScraping
 - Spotify Song Recommender |API | Python | Social Media Marketing
-- [ E-Commerce Shop Project: Customer Reviews Analysis.]([https://github.com/IhrBenutzername/Bechdel-Test-Movie-Analysis](https://github.com/berjusti/FinalProject/tree/main)) | AI | NLP | Sentiment Analysis | Communication Skills in Tech
+- [ E-Commerce Shop Project: Customer Reviews Analysis.](https://github.com/IhrBenutzername/Bechdel-Test-Movie-Analysis](https://github.com/berjusti/FinalProject/tree/main) | AI | NLP | Sentiment Analysis | Communication Skills in Tech
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/justyna-kurach-berlin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/directress.berlin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.filmthewomen.com/)  
