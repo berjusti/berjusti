@@ -18,7 +18,8 @@ Hello! My name is Justyna from Poland, currently 7 years in Berlin (I prefer the
 ## Current Projects
 
 - 🔭 I’m currently working on a film recommender that utilizes Natural Language Processing to minimize the hurdles of selecting the right movie to watch. In the first step, I am developing an IMDB and Letterboxd, FilmWeb extension where I help the viewers see if the movie passes the Bechdel test and is informed about the nuance in it. 
-- Cultural networking project: utilize Data and Social Media Marketing to reach institutions and art projects in Berlin to improve learning in the community
+- Cultural networking project: utilize Data and Social Media Marketing to reach institutions and art projects in Berlin to improve learning 
+ and healthy habits in the berlin FLINTA* community. 
 - 🌱 I’m currently learning TensorFlow: Machine & Deep Learning Solutions
 -  SAP Professional using Cloud Technology
 - 👯 I’m looking to collaborate on Algoraving  
